@@ -1,0 +1,1 @@
+this script is for finding known spekers and also for finding unknown spekers.

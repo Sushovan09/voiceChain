@@ -1,0 +1,1 @@
+here mainly the process_audio2.py file is the main file that is called by the asterisk server, and other filse are for speker detection, which is not properly working. 

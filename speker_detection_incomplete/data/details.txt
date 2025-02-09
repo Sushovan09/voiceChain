@@ -1,0 +1,1 @@
+this folder contains all the spekers data, each speker will have there name as the directory and all the 1 second splited recording(.wav) of their recording inside the sub directory. the python script here split the main audio recording of the speker into 1 second recordings.  

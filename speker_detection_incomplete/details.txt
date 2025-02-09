@@ -1,0 +1,1 @@
+this section is for speker reognition without unknown means this models will only can predict spekers between the datasets.
