@@ -4,6 +4,11 @@
 VoiceChain is a secure and automated IVR system that integrates with Large Language Models (LLMs). The project enables audio call handling through Asterisk, processes audio data using speech-to-text and text-to-speech conversion, and stores call records as text file.
 
 ---
+##Architecture 
+
+![Architecture Image](architecture.png)
+
+---
 
 ## Features
 - **Automated IVR System**: Handles incoming calls and provides automated responses.
